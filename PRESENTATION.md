@@ -4,8 +4,8 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 ## Candidate
 
-- Name:
-- Date submitted:
+- Name: Layth Gharbia
+- Date submitted: 06/23/2026
 
 ## Links
 
@@ -16,7 +16,8 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 ## Certification
 
-- Claude 101 certificate or proof link:
+- Claude 101 certificate or proof link: https://anthropic.skilljar.com/claude-101/385349
+
 
 ## Artifacts
 
