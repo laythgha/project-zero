@@ -9,7 +9,7 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 ## Links
 
-- Live site (Vercel):
+- Live site (Vercel): https://project-zero-on6ocmlyc-layth.vercel.app
 - Repository:
 - Project board (ClickUp):
 - Loom walkthrough video:
@@ -28,9 +28,9 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 One line per skill: what you learned and your confidence from one to three. Pull these from LEARNING_LOG.md.
 
-- Software development lifecycle (SDLC):
-- Git and GitHub:
-- Dev hygiene:
+- Software development lifecycle (SDLC): Learned the 6 steps in the guidelent to create good software
+- Git and GitHub: Learned how to use Git and GitHub
+- Dev hygiene: Learned how to create safe code
 - (add any others)
 
 ## Summary
