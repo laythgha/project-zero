@@ -107,20 +107,20 @@ This is where your presentation skills begin. We will give you feedback and you 
 
 ## What to submit
 
-- [ ] Claude 101 certificate link, in proof and PRESENTATION.md
-- [ ] Both agents installed, screenshots in proof
-- [ ] ClickUp board built and loaded with a ticket per step, screenshot in proof
-- [ ] GitHub set up: professional username, two-factor on, SSH push working
-- [ ] At least one pull request opened and merged
-- [ ] Vercel connected, site live at a public URL
-- [ ] Supabase account created and parked
-- [ ] Prettier, ESLint, and .env handling in place
-- [ ] Architecture diagram in docs
-- [ ] Portfolio site built with all five sections
-- [ ] Loom walkthrough recorded, link in PRESENTATION.md
-- [ ] GitHub profile README live
-- [ ] PRESENTATION.md and LEARNING_LOG.md complete
-- [ ] hamza@techsupersonic.com added as a collaborator
+- [X] Claude 101 certificate link, in proof and PRESENTATION.md
+- [X] Both agents installed, screenshots in proof
+- [X] ClickUp board built and loaded with a ticket per step, screenshot in proof
+- [X] GitHub set up: professional username, two-factor on, SSH push working
+- [X] At least one pull request opened and merged
+- [X] Vercel connected, site live at a public URL
+- [X] Supabase account created and parked
+- [X] Prettier, ESLint, and .env handling in place
+- [X] Architecture diagram in docs
+- [X] Portfolio site built with all five sections
+- [X] Loom walkthrough recorded, link in PRESENTATION.md
+- [X] GitHub profile README live
+- [X] PRESENTATION.md and LEARNING_LOG.md complete
+- [X] hamza@techsupersonic.com added as a collaborator
 - [ ] Call scheduled
 
 ---
