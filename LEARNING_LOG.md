@@ -5,3 +5,5 @@ One entry per skill. Use the Learning Sprint wrap-up: a confidence score from on
 | Date | Skill | Confidence (1-3) | Reflection |
 |06/24/26|Teach-me|3|It is fairly easy there is nothing shaky. Not too difficult to remember and helpful.|
 | 06/24/26| Troubleshoot |2 | It gave good advice however was skipping steps and not listening. Had to let it to look at the steps and start over. |
+
+|06/24/26| SDLC | 3 | Claude explained it very well with its analogies. The guideline seems easy to follow and is very helpful. |
