@@ -54,7 +54,7 @@ export default function Portfolio() {
         <footer className="mt-20 border-t pt-8">
           <h2 className="text-2xl font-semibold mb-4 border-l-4 border-blue-500 pl-4 text-gray-900">Contact</h2>
           <div className="flex flex-col gap-2 text-lg">
-            <p>Email: <span className="font-medium">layth.gharbia@example.com</span></p> 
+            <p>Email: <span className="font-medium">laythgha17@gmail.com</span></p> 
             <p>GitHub: <a href="https://github.com/laythgha" className="text-blue-600 hover:underline">github.com/laythgha</a></p>
           </div>
         </footer>
