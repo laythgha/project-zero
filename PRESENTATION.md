@@ -9,7 +9,7 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 ## Links
 
-- Live site (Vercel): https://project-zero-on6ocmlyc-layth.vercel.app
+- Live site (Vercel): https://project-zero-liard-alpha.vercel.app
 - Repository: https://github.com/laythgha/project-zero/tree/main
 - Project board (ClickUp): https://app.clickup.com/90141366174/v/b/6-901417520715-2
 - Loom walkthrough video: https://www.loom.com/share/7c45d34774734cd6ba026aadaecc6b2f
